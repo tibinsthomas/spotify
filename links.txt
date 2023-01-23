@@ -1,0 +1,15 @@
+spotify image (width = 160px) = https://charts.spotify.com/SpotifyChartsLogoBlack.svg 
+
+1. Aadharanjali = https://open.spotify.com/track/1h819b9tDPeqf9oKltPQ2Q?si=877594d455e34705
+2. Thenmozhi = https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd?si=d7ce58634df24bb9
+3. Kesariya = https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ?si=b70e13538cf9491a
+4. Ranjithame = https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt?si=e46d441f0d154f7b
+5. Jupiter Mazha = https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p?si=859840e826594072
+6. Manavalan Thug = https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF?si=9d290bdd3925446e
+7. Kaadhal En Kaviye = https://open.spotify.com/track/6XYQvYJzHjK5150Vl7NKfJ?si=9cf12037337b4d45
+8. Kannil Kannil = https://open.spotify.com/track/63vWEUXhpgghscp9FgvCMG?si=0b87e15e6bd641a8
+9. Megham Karukatha = https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi?si=19406185247440a7
+10. Adiye = https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG?si=5791380c75054564
+11. Ole Melody = https://open.spotify.com/track/4wMpv5KCDYSCQ0rWwKON0E?si=cdbody 
+background color : #59c1bd
+table background color : #a0e4cb150712013d4f15
